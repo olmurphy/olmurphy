@@ -2,8 +2,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/olmurphy?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/olmurphy?style=social) ![Github Profile Views](https://komarev.com/ghpvc/?username=olmurphy&label=Profile%20views&color=0e75b6&style=social)
 
-- 🔭 I'm currently working as Software Engineer at IBM as an application developer and associate solution architect
-- 🧓 I'm a seasoned programmer in JavaScript, TypeScript, React, GraphQL, SQL, and NoSQL (MongoDB)
+- 🔭 I'm currently working as Software Engineer at IBM with aspirations to become a Socluion Architect
+- 🧓 I'm a seasoned programmer in TypeScript, React, GraphQL, SQL, and NoSQL (MongoDB)
 - 🌱 I'm currently learning React and AWS Cloud along with K8s and other tech while documenting on my [Medium](owenmurphy2022.medium.com)
 - 👯 I'm looking to collaborate on distributed system designing and writing code and developing CI/CD for microservices. 
 - 🤔 I'm looking for help with more SME topics on AWS on cloud platform, and gaining knowledge in CI/CD and ML work.  
@@ -29,6 +29,9 @@
 </p>
 <h3 align="center">Frontend</h3>
 <p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
+  </a>
   <a href="https://react.dev/" target="_blank"> 
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
   </a>
