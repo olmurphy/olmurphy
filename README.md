@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Owen Murphy</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/olmurphy?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/olmurphy?style=social) ![Github Profile Views](https://komarev.com/ghpvc/?username=olmurphy&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/olmurphy?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/olmurphy?style=social) ![Github Profile Views](https://komarev.com/ghpvc/?username=olmurphy&label=Profile%20views&color=0e75b6&style=social)
 
 - 🔭 I'm currently working as Software Engineer at IBM with aspirations to become a Socluion Architect
 - 🧓 I'm a seasoned programmer in TypeScript, React, GraphQL, SQL, and NoSQL (MongoDB)
