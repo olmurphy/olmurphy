@@ -103,6 +103,7 @@
 <a href="https://github.com/olmurphy/olmurphy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olmurphy&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Owen's%20Github%20Stats" alt="Owen's GitHub Stats" />
 </a>
+<br><br>
 <a href="https://github.com/olmurphy/olmurphy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olmurphy&layout=compact&theme=gruvbox" alt="Owen's Most Used Languages"/>
 </a>
