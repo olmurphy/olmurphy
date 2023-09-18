@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I am Owen Murphy</h1>
-<!--
-**olmurphy/olmurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![klj](https://komarev.com/ghpvc/?username=olmurphye&style=flat-square)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
