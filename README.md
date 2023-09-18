@@ -6,12 +6,12 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
 
 
-![GitHub followers](https://img.shields.io/github/followers/olmurphy?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/olmurphy?style=social)
+![GitHub followers](https://img.shields.io/github/followers/olmurphy?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/olmurphy?style=social) [Github Profile Views]([url](https://komarev.com/ghpvc/?username=olmurphy&label=Profile%20views&color=0e75b6&style=social))
 
 - 🔭 I'm currently working as Software Engineer at IBM as an application developer and associate solution architect
 - 🧓 I'm a seasoned programmer in JavaScript, TypeScript, React, GraphQL, SQL, and NoSQL (MongoDB)
@@ -19,6 +19,8 @@
 - 👯 I'm looking to collaborate on distributed system designing and writing code and developing CI/CD for microservices. 
 - 🤔 I'm looking for help with more SME topics on AWS on cloud platform, and gaining knowledge in CI/CD and ML work.  
 - 💬 Ask me about JS, TS, React, GraphQL SQL or NoSQL (MongoDB) database, or AWS.
+- ⚡ Fun fact is that I am learning to roller skate
+- 😄 Pronouns: He/Him/His
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>
@@ -91,7 +93,7 @@
 <div style="margin-top:10px" align="center">
   <div>
     <a  href="https://www.linkedin.com/in/owenmurphy2022/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
     <a  href="https://owenmurphy2022.medium.com/" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Owen's medium"/>
