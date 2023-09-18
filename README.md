@@ -60,7 +60,7 @@
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
+    <img  src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
   </a>
 </p>
 <h3 align="center">Version Control & CI/CD</h3>
