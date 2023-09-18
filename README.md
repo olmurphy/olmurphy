@@ -8,7 +8,7 @@
 - 👯 I'm looking to collaborate on distributed system designing and writing code and developing CI/CD for microservices. 
 - 🤔 I'm looking for help with more SME topics on AWS on cloud platform, and gaining knowledge in CI/CD and ML work.  
 - 💬 Ask me about JS, TS, React, GraphQL SQL or NoSQL (MongoDB) database, or AWS.
-- ⚡ Fun fact is that I am learning to roller skate
+- ⚡  Fun fact is that I am learning to roller skate
 - 😄 Pronouns: He/Him/His
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
@@ -102,6 +102,9 @@
 <br><br>
 <a href="https://github.com/olmurphy/olmurphy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olmurphy&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Owen's%20Github%20Stats" alt="Owen's GitHub Stats" />
+</a>
+<a href="https://github.com/olmurphy/olmurphy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olmurphy&layout=compact&theme=gruvbox" alt="Owen's Most Used Languages"/>
 </a>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/olmurphy/olmurphy">
