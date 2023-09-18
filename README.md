@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning React and AWS Cloud along with K8s and other tech while documenting on my [Medium](owenmurphy2022.medium.com)
 - 👯 I'm looking to collaborate on distributed system designing and writing code and developing CI/CD for microservices. 
 - 🤔 I'm looking for help with more SME topics on AWS on cloud platform, and gaining knowledge in CI/CD and ML work.  
-- 💬 Ask me about JS, TS, React, GraphQL SQL or NoSQL (MongoDB) database, or AWS.
+- 💬 Ask me about JS, TS, React, GraphQL, SQL or NoSQL (MongoDB) database, or AWS.
 - ⚡  Fun fact is that I am learning to roller skate
 - 😄 Pronouns: He/Him/His
 
