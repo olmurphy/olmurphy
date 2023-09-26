@@ -185,11 +185,13 @@ echo "Starting brew app install..."
 brew cask install iterm2
 brew cask install dash
 brew install node
+brew install nvm
 brew install yarn
-brew cask install virtualbox
+brew install docker
+# brew cask install virtualbox
 brew install awscli
-npm i -g --no-optional gatsby-cli
-npm install -g @aws-amplify/cli@multienv
+# npm i -g --no-optional gatsby-cli
+# npm install -g @aws-amplify/cli@multienv
 
 ### Command line tools - install new ones, update others to latest version
 brew install git  # upgrade to latest
@@ -200,12 +202,10 @@ brew install less
 
 ### Dev Editors
 brew cask install visual-studio-code
-#brew cask install phpstorm #installs 2018.x
 
 ### Browsers
 brew cask install google-chrome
 brew cask install firefox
-brew cask install brave-browser
 
 ### Productivity
 brew cask install alfred
