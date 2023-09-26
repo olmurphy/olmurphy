@@ -188,6 +188,7 @@ brew install node
 brew install nvm
 brew install yarn
 brew install docker
+brew install python
 # brew cask install virtualbox
 brew install awscli
 # npm i -g --no-optional gatsby-cli
