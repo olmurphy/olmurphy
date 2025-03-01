@@ -2,13 +2,13 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/olmurphy?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/olmurphy?style=social) ![Github Profile Views](https://komarev.com/ghpvc/?username=olmurphy&label=Profile%20views&color=0e75b6&style=social)
 
-- 🔭 I'm currently working as Software Engineer at IBM with aspirations to become a Socluion Architect
-- 🧓 I'm a seasoned programmer in TypeScript, React, GraphQL, SQL, and NoSQL (MongoDB)
-- 🌱 I'm currently learning React and AWS Cloud along with K8s and other tech while documenting on my [Medium](owenmurphy2022.medium.com)
+- 🔭 I'm currently working as Software Engineer at IBM with aspirations to become a Socluion Architect or Porduct Manager
+- 🧓 I'm a seasoned programmer in TypeScript, Next, Node, Python, GraphQL, NoSQL, and Javascript
+- 🌱 I'm currently learning Deep Learning, how Neural Networks work (forward, back-propogation, gradient-based optimization, minimizing loss, etc.) 
+- with K8s and other tech while documenting on my [Medium](owenmurphy2022.medium.com)
 - 👯 I'm looking to collaborate on distributed system designing and writing code and developing CI/CD for microservices. 
 - 🤔 I'm looking for help with more SME topics on AWS on cloud platform, and gaining knowledge in CI/CD and ML work.  
-- 💬 Ask me about JS, TS, React, GraphQL, SQL or NoSQL (MongoDB) database, or AWS.
-- ⚡  Fun fact is that I am learning to roller skate
+- ⚡  Fun fact is that I am 
 - 😄 Pronouns: He/Him/His
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
@@ -47,6 +47,12 @@
   <a href="https://www.elastic.co/elasticsearch" target="_blank"> 
     <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="elasticsearch"/> 
   </a>
+  <a href="https://pytorch.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="elasticsearch"/> 
+  </a>
+  <a href="https://nginx.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/> 
+  </a>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
@@ -80,6 +86,9 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
   </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="docker"/>
+  </a>
 </p>
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
@@ -95,7 +104,7 @@
     </a>
   </div>
 </div>
-
+<br>
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
