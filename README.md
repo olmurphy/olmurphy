@@ -2,14 +2,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/olmurphy?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/olmurphy?style=social) ![Github Profile Views](https://komarev.com/ghpvc/?username=olmurphy&label=Profile%20views&color=0e75b6&style=social)
 
-- 🔭 I'm currently working as Software Engineer at IBM with aspirations to become a Socluion Architect or Porduct Manager
-- 🧓 I'm a seasoned programmer in TypeScript, Next, Node, Python, GraphQL, NoSQL, and Javascript
-- 🌱 I'm currently learning Deep Learning, how Neural Networks work (forward, back-propogation, gradient-based optimization, minimizing loss, etc.) 
-- with K8s and other tech while documenting on my [Medium](owenmurphy2022.medium.com)
-- 👯 I'm looking to collaborate on distributed system designing and writing code and developing CI/CD for microservices. 
-- 🤔 I'm looking for help with more SME topics on AWS on cloud platform, and gaining knowledge in CI/CD and ML work.  
-- ⚡  Fun fact is that I am 
-- 😄 Pronouns: He/Him/His
+- I'm currently working as AI Engineer at a startup in Shanghai
+- I am also currently pursing my Masters in CS at GeorgiaTech with a focus on Machine Learning
+- I'm a seasoned programmer in Python, Java, Node
+- I am enjoying learning about STEM related stuff, my current studies are relating to Deep Learning, and studying different archiectures like BERT, GPT, etc. 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 <h3 align="center">Languages</h3>
@@ -25,21 +21,6 @@
   </a>
   <a href="https://en.cppreference.com/w/" target="_blank"> 
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-</p>
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
-  </a>
-  <a href="https://react.dev/" target="_blank"> 
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js"/> 
-  </a>
-  <a href="https://graphql.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql"/> 
   </a>
 </p>
 <h3 align="center">Backend</h3>
