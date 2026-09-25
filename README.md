@@ -1,112 +1,103 @@
 <h1 align="center">Hi 👋, I am Owen Murphy</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/olmurphy?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/olmurphy?style=social) ![Github Profile Views](https://komarev.com/ghpvc/?username=olmurphy&label=Profile%20views&color=0e75b6&style=social)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/olmurphy?style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/olmurphy?style=flat-square&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=olmurphy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+</p>
 
-- I'm currently working as AI Engineer at a startup in Shanghai
-- I am also currently pursing my Masters in CS at GeorgiaTech with a focus on Machine Learning
-- I'm a seasoned programmer in Python, Java, Node
-- I am enjoying learning about STEM related stuff, my current studies are relating to Deep Learning, and studying different archiectures like BERT, GPT, etc. 
+<p align="center">
+  <b>M.S. in Computer Science (Machine Learning) @ Georgia Tech</b> | <b>AI Engineer</b>
+</p>
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://en.cppreference.com/w/" target="_blank"> 
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-</p>
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://www.elastic.co/elasticsearch" target="_blank"> 
-    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="elasticsearch"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="elasticsearch"/> 
-  </a>
-  <a href="https://nginx.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/> 
-  </a>
-</p>
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
-  </a> 
-  <a href="https://www.mysql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
-  </a>
-</p>
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img  src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> 
-  </a>
-</p>
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  </a>
-  <a href="https://github.com/olmurphy" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="docker"/>
-  </a>
-</p>
-<h3 align="center">Connect with me</h3>
-<div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://www.linkedin.com/in/owenmurphy2022/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-    </a>
-    <a  href="https://owenmurphy2022.medium.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Owen's medium"/>
-    </a>
-    <a  href="https://linktr.ee/owenmurphy2022" target="_blank">
-      <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Owen's Linktree"/>
-    </a>
-  </div>
-</div>
-<br>
+---
+
+### 🧬 About Me
+
+- 🔬 **Research & Focus:** Applied Deep Learning, Geometric Deep Learning (GNNs), Diffusion Models, and Computational Biology (protein structural dynamics, sequence-to-function modeling, and molecular generation).
+- 🛠️ **Engineering:** High-performance machine learning pipelines, distributed model training, and algorithmic optimization.
+- 📐 **Foundations:** Discrete mathematics, spectral graph theory, abstract algebra, and stochastic processes applied to biological systems.
+
+---
+
+### 🛠️ Scientific Computing & ML Stack
+
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<a href="https://github.com/olmurphy/olmurphy">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olmurphy&theme=gruvbox&hide_border=true)](https://github.com/olmurphy" alt="Owen GitHub Stats Graph"/>
-</a>
-<br><br>
+#### Machine Learning & Scientific Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/PyG_(Geometric)-3C2B80?style=for-the-badge&logoColor=white" alt="PyG"/>
+  <img src="https://img.shields.io/badge/JAX-008080?style=for-the-badge&logo=python&logoColor=white" alt="JAX"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Biopython-005C8A?style=for-the-badge&logoColor=white" alt="Biopython"/>
+</p>
+
+#### Core Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
+</p>
+
+#### Systems, Infrastructure & Storage
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
+
+</div>
+
+---
+
+### 🔬 Research & Technical Interests
+
+- **Geometric Deep Learning & SE(3) Equivariance:** Invariant/equivariant representations for 3D atomic structures, ligand binding, and macromolecular conformation prediction.
+- **Generative Diffusion Models:** Score-based and discrete diffusion applied to de novo protein backbone generation and sequence design.
+- **High-Performance Biological Inference:** Quantization, memory-efficient attention (FlashAttention), and accelerating biomolecular simulations using hybrid GPU/C++ pipelines.
+
+---
+
+### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/olmurphy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=olmurphy&theme=gruvbox&hide_border=true" alt="Owen's Activity Graph" />
+  <a href="https://www.linkedin.com/in/owenmurphy2022/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://owenmurphy2022.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
-<br><br>
-<p align="center">
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
   <a href="https://github.com/olmurphy">
-    <img src="https://github-profile-trophy.vercel.app/?username=olmurphy&theme=gruvbox&no-frame=true&margin-w=4" alt="Owen's Trophies" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olmurphy&theme=gruvbox&hide_border=true" alt="GitHub Profile Summary"/>
   </a>
-</p>
-<h3>Longest vs Current Streak </h3>
-<a href="https://github.com/olmurphy/olmurphy">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olmurphy&theme=gruvbox" alt="Owen's GitHub Streak Stats"/>
-</a>
-<br><br>
+  <br><br>
+
+  <a href="https://github.com/olmurphy">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=olmurphy&theme=gruvbox&hide_border=true" alt="Owen's Activity Graph" />
+  </a>
+  <br><br>
+
+  <a href="https://github.com/olmurphy">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=olmurphy&theme=gruvbox&no-frame=true&margin-w=4" alt="Owen's Trophies" />
+  </a>
+  <br><br>
+
+  <h4>Contribution Streak</h4>
+  <a href="https://github.com/olmurphy">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olmurphy&theme=gruvbox" alt="Owen's GitHub Streak Stats"/>
+  </a>
+  <br><br>
+
 </div>
