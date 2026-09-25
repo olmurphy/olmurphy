@@ -93,13 +93,17 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olmurphy&theme=gruvbox&hide_border=true)](https://github.com/olmurphy" alt="Owen GitHub Stats Graph"/>
 </a>
 <br><br>
-<a href="https://github.com/olmurphy/olmurphy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olmurphy&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Owen's%20Github%20Stats" alt="Owen's GitHub Stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/olmurphy">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=olmurphy&theme=gruvbox&hide_border=true" alt="Owen's Activity Graph" />
+  </a>
+</p>
 <br><br>
-<a href="https://github.com/olmurphy/olmurphy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olmurphy&layout=compact&theme=gruvbox" alt="Owen's Most Used Languages"/>
-</a>
+<p align="center">
+  <a href="https://github.com/olmurphy">
+    <img src="https://github-profile-trophy.vercel.app/?username=olmurphy&theme=gruvbox&no-frame=true&margin-w=4" alt="Owen's Trophies" />
+  </a>
+</p>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/olmurphy/olmurphy">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olmurphy&theme=gruvbox" alt="Owen's GitHub Streak Stats"/>
