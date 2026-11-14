@@ -29,14 +29,14 @@
 
 ### 🧬 About Me
 
-I am an AI/software engineer based in Shanghai and an M.S. in Computer Science (Machine Learning) student at **Georgia Institute of Technology** (transitioning to the on-campus Research Thesis Track in August 2027), preparing for a Ph.D. in computer science or computational biology[cite: 5].
+I am an AI/software engineer based in Shanghai and an M.S. in Computer Science (Machine Learning) student at **Georgia Institute of Technology** (transitioning to the on-campus Research Thesis Track in August 2027), preparing for a Ph.D. in computer science or computational biology.
 
 - 🔬 **Research Focus ([Research Statement →](https://olmurphy.github.io/research)):**
-  - **Reliable Deep Learning:** Calibration, selective prediction (abstention), and robustness under distribution shift[cite: 5].
-  - **Computational Biology:** Deep learning for single-cell and spatial omics, structural biology, and molecular modeling[cite: 5].
-  - **Multi-Agent Systems:** Game-theoretic swarm governance, peer prediction, and incentive-compatible alignment[cite: 5].
-- 🛠️ **Engineering ([Education & Experience →](https://olmurphy.github.io/education)):** Architecting multi-tenant LLM platforms, real-time streaming data planes, and distributed backend systems (formerly Software Engineer at **IBM Consulting**; B.S. in Mathematics & Computer Science from **Baylor University**)[cite: 5].
-- 📐 **Mathematical Foundations ([Self-Study →](https://olmurphy.github.io/learning)):** Spectral graph theory, differential geometry, functional analysis, matrix theory, and stochastic processes[cite: 5].
+  - **Reliable Deep Learning:** Calibration, selective prediction (abstention), and robustness under distribution shift.
+  - **Computational Biology:** Deep learning for single-cell and spatial omics, structural biology, and molecular modeling.
+  - **Multi-Agent Systems:** Game-theoretic swarm governance, peer prediction, and incentive-compatible alignment.
+- 🛠️ **Engineering ([Education & Experience →](https://olmurphy.github.io/education)):** Architecting multi-tenant LLM platforms, real-time streaming data planes, and distributed backend systems (formerly Software Engineer at **IBM Consulting**; B.S. in Mathematics & Computer Science from **Baylor University**).
+- 📐 **Mathematical Foundations ([Self-Study →](https://olmurphy.github.io/learning)):** Spectral graph theory, differential geometry, functional analysis, matrix theory, and stochastic processes.
 
 ---
 
